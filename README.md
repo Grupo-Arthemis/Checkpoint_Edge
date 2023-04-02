@@ -23,6 +23,7 @@ Quando a luminosidade estiver em nível de alerta, deve soar uma buzina (buzzer)
 
 ## Desenvolvimento do projeto
    - Enfrentamos alguns desafios durante o desenvolvimento, tais como a regulagem da luminosidade necessaria para soar o alarme e o led amarelo 
+![Diagrama para montagem] (https://csg.tinkercad.com/things/lJPczjJFnly/t725.png?rev=1680462089741000000&s=&v=1&type=circuits&sharecode=BlOMY5ukm818L1xQJcTf0wGWAfzV2XBjhH8hdhO8U8Q)
 
 ## Como executar o projeto
    - Para executar o projeto, é necessario fazer a montagem do circuito disponibilizado, tambem se da necessario uma regulagem do sensor LDR. (Indicação comentada no código)
