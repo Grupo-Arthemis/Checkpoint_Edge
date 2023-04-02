@@ -1,9 +1,10 @@
 
-**Nome: (Julia Azevedo Lins)** 
-**Nome: (Luis Gustavo Barreto Garrido)** 
-**Nome: (Luan Silveira Macéa)** 
-**Nome: (Felipe Cortez dos Santos)** 
-**Nome: (Victor Hugo Aranda Forte)** 
+**Nome dos integrantes do grupo:** </br>
+*Julia Azevedo Lins* </br>
+*Luis Gustavo Barreto Garrido* </br>
+*Luan Silveira Macéa* </br>
+*Felipe Cortez dos Santos* </br>
+*Victor Hugo Aranda Forte* </br>
 
 **Turma: (ESPW)**
 
@@ -26,15 +27,18 @@ Quando a luminosidade estiver em nível de alerta, deve soar uma buzina (buzzer)
 ## Como executar o projeto
    - Para executar o projeto, é necessario fazer a montagem do circuito disponibilizado, tambem se da necessario uma regulagem do sensor LDR. (Indicação comentada no código)
    
+   
 ## Pré-requisitos
    - Para realizar o projeto foram necessarios os seguintes componentes:
    - 1 Protoboard
-   - 1 Jumper 
-   - 3 Resistores de 100Ω
-   - 1 Resistores de 1MΩ
+   - 13 Jumpers 
+   - 2 Resistores de 100Ω
+   - 1 Resistores de 150MΩ
+   - 1 Resistores de 10MΩ
    - 3 LEDs sendo (1 Vermelho, 1 Amarelo e 1 Verde)
    - 1 Sensor de luminosidade LDR
    - 1 Arduino (Utilizamos o UNO mas existem outras alternativas caso o UNO não seja uma opção)
+   - 1 Piezo
 
 ## Video Explicativo
    - Coloque aqui o link para o seu video explicando como o projeto foi desenvolvido, quais as dificuldades encontradas e qual a solução adotada.
