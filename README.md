@@ -110,4 +110,4 @@ void apagaLeds() {
    - 1 Piezo
 
 ## Video Explicativo
-   - Coloque aqui o link para o seu video explicando como o projeto foi desenvolvido, quais as dificuldades encontradas e qual a solução adotada.
+   https://drive.google.com/file/d/14YZGznmXTDcgCD-g_C1SksETWBPQx1de/view?usp=sharing
