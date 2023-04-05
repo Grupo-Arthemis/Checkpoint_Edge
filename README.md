@@ -29,7 +29,10 @@ Quando a luminosidade estiver em nível de alerta, deve soar uma buzina (buzzer)
 ## Como executar o projeto
    - Para executar o projeto, é necessario fazer a montagem do circuito disponibilizado, tambem se da necessario uma regulagem do sensor LDR. (Indicação comentada no código) </br>
    ### Esquema de montagem ###
+   https://www.tinkercad.com/things/lJPczjJFnly?sharecode=BlOMY5ukm818L1xQJcTf0wGWAfzV2XBjhH8hdhO8U8Q
    ![Esquema ParaMontagem](https://user-images.githubusercontent.com/84590776/229381209-e5e0be78-a5d5-4af2-9df3-c0ce90854cfc.png)
+   
+   
     
    ### Codigo Utilizado ###
    ```
